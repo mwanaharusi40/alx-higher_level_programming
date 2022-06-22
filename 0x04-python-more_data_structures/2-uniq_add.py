@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # 2-uniq_add.py
+# Gedeon Obae Gekonge <gideonobae@gmail.com>
 
 
 def uniq_add(my_list=[]):

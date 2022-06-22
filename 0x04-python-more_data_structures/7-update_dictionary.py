@@ -1,7 +1,9 @@
 #!/usr/bin/python3
-# 6-print_sorted_dictionary.py
+# 7-update_dictionary.py
+# Gedeon Obae Gekonge <gideonobae@gmail.com>
 
 
-def print_sorted_dictionary(a_dictionary):
-    """Print a dictionary by ordered keys."""
-    [print("{}: {}".format(k, a_dictionary[k])) for k in sorted(a_dictionary)]
+def update_dictionary(a_dictionary, key, value):
+    """Replace or add key/value pairs in a dictionary."""
+    a_dictionary[key] = value
+    return (a_dictionary)

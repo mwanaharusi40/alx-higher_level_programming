@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # 6-print_sorted_dictionary.py
+# Gedeon Obae Gekonge <gideonobae@gmail.com>
 
 
 def print_sorted_dictionary(a_dictionary):

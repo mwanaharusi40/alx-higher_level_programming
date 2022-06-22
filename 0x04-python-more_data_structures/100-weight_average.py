@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # 100-weight_average.py
+# Gedeon Obae Gekonge <gideonobae@gmail.com>
 
 
 def weight_average(my_list=[]):
@@ -12,4 +13,4 @@ def weight_average(my_list=[]):
     for tup in my_list:
         avg += (tup[0] * tup[1])
         size += tup[1]
-    return (avg / size)i
+    return (avg / size)

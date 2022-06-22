@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # 10-best_score.py
+# Gedeon Obae Ge <gideonobae@gmail.com>
 
 
 def best_score(a_dictionary):
@@ -13,4 +14,4 @@ def best_score(a_dictionary):
         if v > big:
             big = v
             ret = k
-    return (ret)i
+    return (ret)
