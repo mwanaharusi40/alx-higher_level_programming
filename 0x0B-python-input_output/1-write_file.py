@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Module 11111111111-write_file
+Module 3-write_file
 Contains function that writes to text file and returns num chars written
 """
 
